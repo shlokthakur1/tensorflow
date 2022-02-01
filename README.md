@@ -9,5 +9,9 @@ This was a Kaggle competition in which I came 4th (https://www.kaggle.com/c/fit3
 This was a very simple image classification problem that I undertook to solidify my learnings about Convolutional Neural Networks and Image classification techniques. Still I undertook a lot of pre analysis like image visualisation and train/test split that is essential in Machine Learning practices. This project displays my basic ability to use tensorflow and strong foundation in Machine Learning practices.
 
 ### NLP - Question Classification
+This project was a self-project where I took text data from a source website (https://cogcomp.seas.upenn.edu/Data/QA/QC/) and built a TextCNNs and RNNs. I experimented on both types of structures and using the hypertuning method Grid Search I chose an optimal model for the experiment. I then expanded this and used the NLP mechanism of attention, I applied this to my RNN model to create a better performing model that can be used for a number of NLP tasks. 
+
+There were a number of pre- context tasks I during the experiment to grasp a better understanding of NLP, such as Word2Vectors and mapping them in a 3-D plot.
+
 
 ### Wikipedia Forecasting Regression
