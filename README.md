@@ -15,3 +15,4 @@ There were a number of pre- context tasks I during the experiment to grasp a bet
 
 
 ### Wikipedia Forecasting Regression
+This project was a group project that I undertook with 2 other students with guidance from a experienced researcher, it was a project for high achieving students that provided us research and academic publishing experience, it's not an official research paper but very similar. The data task was also unique and required us to learn a number of new forecasting skills, especially since it was a regression problem and not a classification problem which most machine learning projects I've undertaken on tensorflow are, it provided me a lot of new learnings.
